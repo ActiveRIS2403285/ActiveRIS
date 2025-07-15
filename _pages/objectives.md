@@ -7,6 +7,8 @@ toc_label: "Objectives"
 toc_position: right    
 toc_sticky: true     
 toc_levels: 2
+sidebar:
+  nav: "main"
 ---
 
 
