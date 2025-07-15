@@ -1,6 +1,13 @@
 ---
 title: "Broader Impacts"
+classes: wide
 layout: single
+permalink: /broader-impacts/
+toc: false
+toc_label: "Impacts"
+toc_icon: "cog"
+sidebar:
+  nav: "main"
 ---
 
 <style>
