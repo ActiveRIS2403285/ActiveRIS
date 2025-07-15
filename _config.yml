@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ACTIVE-RIS
-permalink: pretty
+domain: activeris2403285.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Design and Algorithms for Active Reconfigurable Intelligent Surfaces for sub-THz Wireless Networks.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "ActiveRIS" # the subpath of your site, e.g. /blog
 url: "https://activeris2403285.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username: activeris2403285
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes"
@@ -34,6 +34,19 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
