@@ -1,0 +1,17 @@
+main:
+  - title: "Synopsis"
+    url: /
+  - title: "Personnel"
+    url: /personnel/
+  - title: "Educational Activities"
+    url: /educational-activities/
+  - title: "Objectives"
+    url: /objectives/
+  - title: "Publications"
+    url: /publications/
+  # - title: "Code/Datasets"
+  #  url: /code_datasets/
+  - title: "Broader Impacts"
+    url: /broader-impacts/
+  - title: "Outreach"
+    url: /outreach/
