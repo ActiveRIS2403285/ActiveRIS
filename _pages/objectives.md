@@ -1,7 +1,7 @@
 ---
 title: "Objectives"
 layout: single
-
+permalink: /objectives/
 toc: true             
 toc_label: "Objectives"  
 toc_position: right    
