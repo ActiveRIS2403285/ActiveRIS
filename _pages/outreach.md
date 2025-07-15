@@ -20,7 +20,7 @@ sidebar:
 </style>
 
 <div class="edu-activity">
-At UNL: Outreach activities that aim to broaden participation in computing include PI Nie's continued volunteering at a K-12after-school coding program in Lincoln, NE, 
+At UNL: Outreach activities that aim to broaden participation in computing include PI Nie's continued volunteering at a K-12 after-school coding program in Lincoln, NE, 
 to facilitate middle-school students’ learning of Python and basic radioknowledge. PI Nie also started a partnership with Northeast Community College and Nebraska 4-H in 
 Norfolk, NE (located inNortheast Nebraska in Madison County), on a youth coding program for rural Nebraska communities. PI Nie hosted “Big RedCamp - STEM Odyssey” in 
 partnership with UNL Extension and Nebraska 4-H for 13 youth entering Grades 9–12 on June 13, 2025. The coding camp focused on fundamentals of wireless networking and radio communicationthrough Python coding using the micro:bit coding kit.
