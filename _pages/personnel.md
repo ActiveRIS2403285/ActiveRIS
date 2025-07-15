@@ -2,6 +2,9 @@
 title: "Personnel"
 layout: single
 last_modified_at: 2025-07-14
+permalink: /personnel/
+sidebar:
+  nav: "main"
 ---
 <style>
   .person-card img {
