@@ -1,7 +1,9 @@
 ---
 title: "Publications"
 layout: single
-full_width: true 
+classes: wide
+sidebar:
+  nav: "main"
 ---
 
 <style>
