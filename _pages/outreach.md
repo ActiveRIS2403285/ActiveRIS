@@ -1,6 +1,13 @@
 ---
 title: "Outreach"
 layout: single
+classes: wide
+permalink: /outreach/
+toc: false
+toc_label: "Outreach"
+toc_icon: "cog"
+sidebar:
+  nav: "main"
 ---
 
 <style>
