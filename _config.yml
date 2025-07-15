@@ -27,10 +27,11 @@ url: "https://activeris2403285.github.io" # the base hostname & protocol for you
 twitter_username: 
 github_username: activeris2403285
 
+markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 lsi: false
 safe: true
@@ -41,7 +42,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-  paginate: 5 # amount of posts to show
+  paginate: 6 # amount of posts to show
 paginate_path: /page:num/
 include: ["_pages"]
 
