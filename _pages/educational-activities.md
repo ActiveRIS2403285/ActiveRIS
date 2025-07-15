@@ -1,7 +1,13 @@
 ---
 title: "Educational Activities"
 layout: single
-# permalink: /educational-activities/
+classes: wide
+permalink: /educational-activities/
+toc: false
+toc_label: "Education Activities"
+toc_icon: "cog"
+sidebar:
+  nav: "main"
 ---
 
 <style>
